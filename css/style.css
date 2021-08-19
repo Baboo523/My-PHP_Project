@@ -1,0 +1,51 @@
+#wrapper
+{
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+#header
+{
+    width:960px;
+    height: 130px;
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+#menu
+{
+    width: 960px;
+    height: 90px;
+    background-color: chocolate;
+    color:azure;
+}
+#menu ul
+{
+    list-style: none;
+}
+#menu ul li
+{
+     display:inline;
+}
+#content
+{
+    width: 600px;
+    height: auto;
+    background: gainsboro;
+    float:left;
+}
+#news
+{
+    width: 360px;
+    height: auto;
+    background: burlywood;
+    float:left;
+}
+#footer
+{
+    width: 960px;
+    height:160px;
+    background-color: darkgreen;
+    clear:both;
+    color:azure; 
+}
+
